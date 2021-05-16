@@ -30,6 +30,8 @@ def run_mobius(cfg):
             dir = cfg['dir'],
             cfg_vehicles = cfg['cfg_vehicles'],
             num_vehicles = cfg['num_vehicles'])
+    if 'duration_sec' in cfg:
+        cmd += ' --duration {duration}'.format(duration = cfg['duration_sec'])
     if cfg['hull']:
         cmd += ' --hull'
     for a in cfg['apps']:

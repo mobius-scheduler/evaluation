@@ -21,6 +21,7 @@ for a in cfg['alpha']:
         "capacity": cfg['capacity'],
         "rth": cfg['rth'],
         "replan_sec": cfg['replan_sec'],
+        "duration_sec": cfg['duration_sec'],
         "hull": cfg['hull'],
         "dir": cfg['dir'],
         "num_vehicles": cfg['num_vehicles'],
