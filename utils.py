@@ -1,5 +1,6 @@
 import subprocess as sh
 import os
+import json
 
 MOBIUS_PATH = './mobius'
 
@@ -38,4 +39,12 @@ def run_mobius(cfg):
         cmd += ' --app {}'.format(a)
     print(cmd)
     exec(cmd)
+
+def get_app_ids(apps):
+    ids = []
+    for a in apps:
+        with open(a) as f:
+            data = json.load(f)
+            ids += [data['app_id']]
+    return ids
 

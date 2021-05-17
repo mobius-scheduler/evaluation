@@ -5,24 +5,22 @@ import glob
 
 COLS = ['env', 'alpha', 'time', 'round', 'app_id', 'tasks_requested', 'tasks_fulfilled']
 
-def parse_im(y, req_prev):
+def parse_im(y, req_prev, ids):
     # open file
     with open(y) as f:
         im = json.load(f)
 
-    ids = [1, 2]
     req = {id: 0 for id in ids}
     for t in im:
         req[t['app_id']] += t['interest']
     return req
 
-def parse_schedule(x, req, rnd, time, env):
+def parse_schedule(x, req, rnd, time, env, ids):
     # open file
     with open(x) as f:
         s = json.load(f)
 
     df = pd.DataFrame(columns = COLS)
-    ids = [1, 2]
     for app in ids:
         if str(app) in s['allocation']:
             alloc = s['allocation'][str(app)]
@@ -50,7 +48,9 @@ def parse_schedule(x, req, rnd, time, env):
                 'round': rnd,
                 'app_id': -1,
                 'tasks_requested': sum(req[app] for app in ids),
-                'tasks_fulfilled': sum(s['allocation'][str(app)] for app in ids),
+                'tasks_fulfilled': sum(s['allocation'][str(app)] \
+                        if str(app) in s['allocation'] else 0 \
+                        for app in ids),
             },
             ignore_index = 1
     )
@@ -63,7 +63,7 @@ def merge(parsed, to):
     df = pd.concat(x)
     df.to_csv(to, index = False)
 
-def parse(dir):
+def parse(dir, ids):
     with open(dir + '/config.cfg') as f:
         cfg = json.load(f)
         horizon = cfg['replan_sec']
@@ -75,8 +75,8 @@ def parse(dir):
     for x,y in zip(sched, im):
         env = dir.split('/')[-4]
         rnd = int(x.split('round')[-1].split('.json')[0]) + 1
-        req = parse_im(y, req_prev)
-        s = parse_schedule(x, req, rnd, horizon * rnd, env)
+        req = parse_im(y, req_prev, ids)
+        s = parse_schedule(x, req, rnd, horizon * rnd, env, ids)
         df = df.append(s)
         req_prev = req
     df.to_csv(dir + '/tasks.csv', index = False)
