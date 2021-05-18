@@ -1,6 +1,6 @@
 # Mobius Evaluation Code
 
-This repository contains scripts to run most of the experiments using Mobius from our Mobisys paper. This README explains how to setup the evaluation environment and run the experiments.
+This repository contains scripts to run most of the experiments using [Mobius](https://github.com/mobius-scheduler/mobius) from our Mobisys paper. This README explains how to setup the evaluation environment and run the experiments.
 
 ## Quick Start
 * [Required Setup](#required-setup)
