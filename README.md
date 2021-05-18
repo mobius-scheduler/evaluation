@@ -32,6 +32,7 @@ Follow these steps to install Mobius and dependencies for the experiment instrum
 
 5. Install dependencies:
     ```
+    cd evaluation/
     pip3 install -r requirements.txt
     sudo script requirements.r
     ```
