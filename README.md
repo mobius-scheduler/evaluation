@@ -12,28 +12,28 @@ You should be able to run most the experiments on any machine running Ubuntu or 
 
 ## Installation
 Follow these steps to install Mobius and dependencies for the experiment instrumentation and plotting scripts:
-1. Install [Go](https://golang.org/doc/install) (to run Mobius):
+1. Clone this repository:
+    ```
+    git clone --recurse-submodules https://github.com/mobius-scheduler/evaluation
+    ```
+
+2. Install [Go](https://golang.org/doc/install) (to run Mobius):
     ```
     wget -c https://dl.google.com/go/go1.14.2.linux-amd64.tar.gz -O - | sudo tar -xz -C /usr/local
     ```
     
-2. Add `export PATH=$PATH:/usr/local/go/bin` to your .bashrc and source (`source ~/.bashrc`).
+3. Add `export PATH=$PATH:/usr/local/go/bin` to your .bashrc and source (`source ~/.bashrc`).
 
-3. Install python3 and R:
+4. Install python3 and R:
     ```
     sudo apt-get update
     sudo apt-get install python3.6 r-base python3-pip
     ```
 
-4. Install dependencies:
+5. Install dependencies:
     ```
     pip3 install -r requirements.txt
     Rscript requirements.r
-    ```
-
-5. Clone this repository:
-    ```
-    git clone --recurse-submodules https://github.com/mobius-scheduler/evaluation
     ```
 
 ## Reproducible Experiments
