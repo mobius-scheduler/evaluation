@@ -44,12 +44,12 @@ to = '{dir}/tasks.csv'.format(dir = cfg['dir'])
 parse.merge(parsed, to)
 
 # generate plots
-cmd = 'Rscript thp.r {dir}/tasks.csv {dir}/drone-thp.pdf'.format(dir = cfg['dir'])
+cmd = 'Rscript thp.r {dir}/tasks.csv {dir}/aerial-thp.pdf'.format(dir = cfg['dir'])
 utils.exec(cmd)
 
-cmd = 'Rscript completion.r {dir}/tasks.csv {dir}/drone-completion.pdf'.format(dir = cfg['dir'])
+cmd = 'Rscript completion.r {dir}/tasks.csv {dir}/aerial-completion.pdf'.format(dir = cfg['dir'])
 utils.exec(cmd)
 
-print("Plot saved to {dir}/drone-thp.pdf".format(dir = cfg['dir']))
-print("Plot saved to {dir}/drone-completion.pdf".format(dir = cfg['dir']))
+print("Plot saved to {dir}/aerial-thp.pdf".format(dir = cfg['dir']))
+print("Plot saved to {dir}/aerial-completion.pdf".format(dir = cfg['dir']))
 
