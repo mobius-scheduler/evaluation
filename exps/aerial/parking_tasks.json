@@ -1,0 +1,32 @@
+[
+    {
+        "app_id": 2,
+        "interest": 1,
+        "location": {
+            "latitude": 42.361504,
+            "longitude": -71.114388
+        },
+        "request_time": 0,
+        "task_time_seconds": 60
+    },
+    {
+        "app_id": 2,
+        "interest": 1,
+        "location": {
+            "latitude": 42.361936,
+            "longitude": -71.113999
+        },
+        "request_time": 0,
+        "task_time_seconds": 60
+    },
+    {
+        "app_id": 2,
+        "interest": 1,
+        "location": {
+            "latitude": 42.362761,
+            "longitude": -71.119016
+        },
+        "request_time": 0,
+        "task_time_seconds": 60
+    }
+]
