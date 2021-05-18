@@ -62,7 +62,7 @@ Below, we tabulate the scripts to run the experiments, the paths to the plots, a
 | Info            |  Details                                                        |
 | :----:          | :----                                                         |
 | Script          | `python3 aerial.py exps/aerial/aerial.cfg`                    |
-| Plots           | `data/aerial/aerial-thp.pdf<br>data/aerial/aerial-completion.pdf` |
+| Plots           | `data/aerial/aerial-thp.pdf`<br>`data/aerial/aerial-completion.pdf` |
 | Expected output<br>Figure 15 | - "dedicated drones" should have roughly equal slices of the total throughput<br>- "max throughput" should give the largest share of throughput to the iPerf app<br>- "max throughput" should gradually ramp up its throughput for the Air Quality app<br>- "Mobius (prop. fair)" should give less throughput to iPerf than "max throughput"<br>- "Mobius (prop. fair)" should give more throughput to the Air Quality app than "max throughput"<br>- "Mobius (max-min)" should give a more even share of throughput across the apps than "max throughput"<br>- "Mobius (max-min)" should give more total throughput than "dedicated drones" |
 | Expected output<br>Figure 16 | - "dedicated drones" should complete a high percentage (> 75%) of Parking and Traffic tasks<br> - "dedicated drones" should complete a low percentage (< 30%) of iPerf, Air Quality, and Roof tasks<br>- "Mobius (max-min)" should complete a greater percentage of Roof, Traffic, and Parking tasks than "max throughput" does<br>- "Max throughput" should complete a greater percentage of iPerf and Air Quality tasks than "Mobius (max-min)" does<br> - "Mobius (prop. fair)" should fulfill a greater percentage of iPerf and Air Quality tasks than does "Mobius (max-min)"|
 
