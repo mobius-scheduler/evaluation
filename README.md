@@ -28,6 +28,7 @@ Follow these steps to install Mobius and dependencies for the experiment instrum
 4. Install dependencies:
     ```
     pip3 install -r requirements.txt
+    Rscript requirements.r
     ```
 
 5. Clone this repository:
