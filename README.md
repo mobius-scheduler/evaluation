@@ -8,7 +8,7 @@ This repository contains scripts to run most of the experiments using Mobius fro
 * [Running Experiments](#reproducible-experiments)
 
 ## Required Setup
-You should be able to run most the experiments on any machine running Ubuntu or MacOS. We ran our experiments on an Amazon EC2 `t2.micro` instance with 4 CPUs running Ubuntu 18.04. The Mobius implementation is multi-threaded, so for good performance, we recommend a machine with multiple CPUs. We provide instructions below for Ubuntu.
+You should be able to run most the experiments on any machine running Ubuntu or MacOS. We ran our experiments on an Amazon EC2 `t2.xlarge` instance with 4 CPUs running Ubuntu 18.04. The Mobius implementation is multi-threaded, so for good performance, we recommend a machine with multiple CPUs. We provide instructions below for Ubuntu.
 
 ## Installation
 Follow these steps to install Mobius and dependencies for the experiment instrumentation and plotting scripts:
