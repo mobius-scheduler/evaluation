@@ -1,0 +1,5728 @@
+[
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70327948694256,
+            "longitude": -74.01101059702111
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 2322,
+        "task_time_seconds": 868.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 2968,
+        "task_time_seconds": 534.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74228299549992,
+            "longitude": -73.9969712004999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 348,
+        "task_time_seconds": 257.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 1536,
+        "task_time_seconds": 174.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71153468920308,
+            "longitude": -74.01589181962237
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 1693,
+        "task_time_seconds": 229.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73733742599988,
+            "longitude": -73.98401569649994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 1446,
+        "task_time_seconds": 525.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72853284299991,
+            "longitude": -73.99718279649989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 1542,
+        "task_time_seconds": 271.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76861400849991,
+            "longitude": -73.96563511049996
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 296,
+        "task_time_seconds": 1695.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.80962137687038,
+            "longitude": -73.96160445538064
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 1994,
+        "task_time_seconds": 1738.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75683997849992,
+            "longitude": -73.97247058149988
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 2375,
+        "task_time_seconds": 1717.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70665878589847,
+            "longitude": -74.00723894418903
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 2233,
+        "task_time_seconds": 1405.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 3342,
+        "task_time_seconds": 655.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 2739,
+        "task_time_seconds": 433.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 1165,
+        "task_time_seconds": 332.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.765305162962136,
+            "longitude": -73.95472774589084
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 1,
+        "task_time_seconds": 2018.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 2506,
+        "task_time_seconds": 625.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70911981499988,
+            "longitude": -74.01264349249996
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 3536,
+        "task_time_seconds": 701.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71153468920308,
+            "longitude": -74.01589181962237
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 1866,
+        "task_time_seconds": 573.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75351008049991,
+            "longitude": -73.98879086249991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 518,
+        "task_time_seconds": 915.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 3589,
+        "task_time_seconds": 810.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 2666,
+        "task_time_seconds": 841.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.765305162962136,
+            "longitude": -73.95472774589084
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 2437,
+        "task_time_seconds": 1720.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76224880249993,
+            "longitude": -73.98983608299997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 6669,
+        "task_time_seconds": 1226.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749083385499915,
+            "longitude": -73.98568407899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 5092,
+        "task_time_seconds": 1373.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74228299549992,
+            "longitude": -73.9969712004999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 5211,
+        "task_time_seconds": 995.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749083385499915,
+            "longitude": -73.98568407899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 6095,
+        "task_time_seconds": 1051.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 6988,
+        "task_time_seconds": 365.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 6248,
+        "task_time_seconds": 1507.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72371646899991,
+            "longitude": -74.00108181249989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 6318,
+        "task_time_seconds": 524.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 4164,
+        "task_time_seconds": 1189.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 4253,
+        "task_time_seconds": 471.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71153468920308,
+            "longitude": -74.01589181962237
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 4312,
+        "task_time_seconds": 947.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 5314,
+        "task_time_seconds": 767.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 4469,
+        "task_time_seconds": 286.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74228299549992,
+            "longitude": -73.9969712004999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 4947,
+        "task_time_seconds": 962.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 6341,
+        "task_time_seconds": 568.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 6175,
+        "task_time_seconds": 908.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 4340,
+        "task_time_seconds": 853.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 3616,
+        "task_time_seconds": 420.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74228299549992,
+            "longitude": -73.9969712004999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 3997,
+        "task_time_seconds": 1137.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 3902,
+        "task_time_seconds": 516.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72371646899991,
+            "longitude": -74.00108181249989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 6086,
+        "task_time_seconds": 422.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740335749775284,
+            "longitude": -73.97717209350196
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 5115,
+        "task_time_seconds": 1321.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 4834,
+        "task_time_seconds": 1299.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.77578524049993,
+            "longitude": -73.9884571529746
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 5471,
+        "task_time_seconds": 1585.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7129822358378,
+            "longitude": -73.99883418899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 5397,
+        "task_time_seconds": 1365.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 3724,
+        "task_time_seconds": 1167.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 4782,
+        "task_time_seconds": 1212.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70911981499988,
+            "longitude": -74.01264349249996
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 6551,
+        "task_time_seconds": 1399.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 6275,
+        "task_time_seconds": 601.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 5389,
+        "task_time_seconds": 589.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 8891,
+        "task_time_seconds": 747.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71529991058123,
+            "longitude": -73.98302108862248
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10683,
+        "task_time_seconds": 1314.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 8544,
+        "task_time_seconds": 725.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 7626,
+        "task_time_seconds": 669.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70911981499988,
+            "longitude": -74.01264349249996
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 9497,
+        "task_time_seconds": 998.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10565,
+        "task_time_seconds": 553.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10067,
+        "task_time_seconds": 723.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 7812,
+        "task_time_seconds": 558.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10236,
+        "task_time_seconds": 592.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.8411944354999,
+            "longitude": -73.9407743822414
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 7601,
+        "task_time_seconds": 2345.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75803031499993,
+            "longitude": -73.97768016050001
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 7527,
+        "task_time_seconds": 2257.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70665878589847,
+            "longitude": -74.00723894418903
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10331,
+        "task_time_seconds": 1080.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72853284299991,
+            "longitude": -73.99718279649989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 9157,
+        "task_time_seconds": 384.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 8500,
+        "task_time_seconds": 1047.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10100,
+        "task_time_seconds": 740.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75981693399994,
+            "longitude": -73.98419627399991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 9775,
+        "task_time_seconds": 1785.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72371646899991,
+            "longitude": -74.00108181249989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10225,
+        "task_time_seconds": 907.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10427,
+        "task_time_seconds": 873.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7129822358378,
+            "longitude": -73.99883418899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10392,
+        "task_time_seconds": 1157.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70911981499988,
+            "longitude": -74.01264349249996
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 7644,
+        "task_time_seconds": 664.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75803031499993,
+            "longitude": -73.97768016050001
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 8883,
+        "task_time_seconds": 2478.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10134,
+        "task_time_seconds": 722.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.78043963049991,
+            "longitude": -73.95700953199992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 9971,
+        "task_time_seconds": 2191.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72371646899991,
+            "longitude": -74.00108181249989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10694,
+        "task_time_seconds": 323.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 8111,
+        "task_time_seconds": 939.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 12673,
+        "task_time_seconds": 671.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 14136,
+        "task_time_seconds": 372.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 12824,
+        "task_time_seconds": 392.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 12054,
+        "task_time_seconds": 482.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 13948,
+        "task_time_seconds": 437.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 13787,
+        "task_time_seconds": 801.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.765305162962136,
+            "longitude": -73.95472774589084
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 11943,
+        "task_time_seconds": 1489.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 12631,
+        "task_time_seconds": 1217.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 12792,
+        "task_time_seconds": 571.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 14388,
+        "task_time_seconds": 557.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 11157,
+        "task_time_seconds": 1374.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76695150749994,
+            "longitude": -73.95963426699993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 14173,
+        "task_time_seconds": 2033.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740335749775284,
+            "longitude": -73.97717209350196
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 11805,
+        "task_time_seconds": 1176.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.782430709999886,
+            "longitude": -73.96543425149989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 13876,
+        "task_time_seconds": 2274.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76438657849988,
+            "longitude": -73.97704129499989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 13020,
+        "task_time_seconds": 1861.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 12712,
+        "task_time_seconds": 642.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 11967,
+        "task_time_seconds": 593.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 13292,
+        "task_time_seconds": 880.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 12011,
+        "task_time_seconds": 504.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 14115,
+        "task_time_seconds": 582.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75803031499993,
+            "longitude": -73.97768016050001
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 13671,
+        "task_time_seconds": 1710.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 10902,
+        "task_time_seconds": 1206.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 12522,
+        "task_time_seconds": 422.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748496368499886,
+            "longitude": -73.99243404399994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 12125,
+        "task_time_seconds": 647.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74228299549992,
+            "longitude": -73.9969712004999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 11768,
+        "task_time_seconds": 569.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75981693399994,
+            "longitude": -73.98419627399991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 12291,
+        "task_time_seconds": 1471.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.708475355352554,
+            "longitude": -74.00412857927198
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 13770,
+        "task_time_seconds": 1954.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 12925,
+        "task_time_seconds": 547.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 17435,
+        "task_time_seconds": 807.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.766568455471045,
+            "longitude": -73.99591012309416
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16955,
+        "task_time_seconds": 1435.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74228299549992,
+            "longitude": -73.9969712004999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 15017,
+        "task_time_seconds": 873.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 15855,
+        "task_time_seconds": 309.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 15450,
+        "task_time_seconds": 564.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73170970499915,
+            "longitude": -73.97698123604246
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16765,
+        "task_time_seconds": 1006.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.78043963049991,
+            "longitude": -73.95700953199992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 17598,
+        "task_time_seconds": 2136.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.80962137687038,
+            "longitude": -73.96160445538064
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 14548,
+        "task_time_seconds": 1945.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73733742599988,
+            "longitude": -73.98401569649994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16433,
+        "task_time_seconds": 770.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72853284299991,
+            "longitude": -73.99718279649989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16241,
+        "task_time_seconds": 496.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76224880249993,
+            "longitude": -73.98983608299997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 15562,
+        "task_time_seconds": 1494.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74772537849988,
+            "longitude": -73.97764804049993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 17288,
+        "task_time_seconds": 1284.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76695150749994,
+            "longitude": -73.95963426699993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 14756,
+        "task_time_seconds": 1708.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749083385499915,
+            "longitude": -73.98568407899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 17172,
+        "task_time_seconds": 1158.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16246,
+        "task_time_seconds": 601.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 15619,
+        "task_time_seconds": 907.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.708475355352554,
+            "longitude": -74.00412857927198
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16785,
+        "task_time_seconds": 910.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7129822358378,
+            "longitude": -73.99883418899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 17485,
+        "task_time_seconds": 1490.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16742,
+        "task_time_seconds": 573.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16179,
+        "task_time_seconds": 612.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74772537849988,
+            "longitude": -73.97764804049993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 17047,
+        "task_time_seconds": 2045.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71153468920308,
+            "longitude": -74.01589181962237
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 15344,
+        "task_time_seconds": 547.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 14853,
+        "task_time_seconds": 544.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.765305162962136,
+            "longitude": -73.95472774589084
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 17533,
+        "task_time_seconds": 1914.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 17449,
+        "task_time_seconds": 366.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70665878589847,
+            "longitude": -74.00723894418903
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16275,
+        "task_time_seconds": 1207.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 17212,
+        "task_time_seconds": 351.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16059,
+        "task_time_seconds": 1035.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 15943,
+        "task_time_seconds": 310.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16438,
+        "task_time_seconds": 487.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75803031499993,
+            "longitude": -73.97768016050001
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 17799,
+        "task_time_seconds": 1611.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72853284299991,
+            "longitude": -73.99718279649989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 16575,
+        "task_time_seconds": 366.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.78043963049991,
+            "longitude": -73.95700953199992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 15752,
+        "task_time_seconds": 1746.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740335749775284,
+            "longitude": -73.97717209350196
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 20309,
+        "task_time_seconds": 1836.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.77578524049993,
+            "longitude": -73.9884571529746
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 19857,
+        "task_time_seconds": 1302.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 19479,
+        "task_time_seconds": 569.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72853284299991,
+            "longitude": -73.99718279649989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 18507,
+        "task_time_seconds": 454.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 20968,
+        "task_time_seconds": 610.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748496368499886,
+            "longitude": -73.99243404399994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 20226,
+        "task_time_seconds": 1120.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 19782,
+        "task_time_seconds": 538.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76224880249993,
+            "longitude": -73.98983608299997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 19726,
+        "task_time_seconds": 1022.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 21141,
+        "task_time_seconds": 533.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.78043963049991,
+            "longitude": -73.95700953199992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 20307,
+        "task_time_seconds": 2066.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.79178324542306,
+            "longitude": -73.97303122261616
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 19241,
+        "task_time_seconds": 1685.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 20429,
+        "task_time_seconds": 831.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70665878589847,
+            "longitude": -74.00723894418903
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 18372,
+        "task_time_seconds": 976.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 18549,
+        "task_time_seconds": 274.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75981693399994,
+            "longitude": -73.98419627399991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 20159,
+        "task_time_seconds": 2150.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 18601,
+        "task_time_seconds": 389.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 18791,
+        "task_time_seconds": 876.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71529991058123,
+            "longitude": -73.98302108862248
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 20381,
+        "task_time_seconds": 1512.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75803031499993,
+            "longitude": -73.97768016050001
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 21347,
+        "task_time_seconds": 1340.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 20203,
+        "task_time_seconds": 604.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 20383,
+        "task_time_seconds": 617.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 24343,
+        "task_time_seconds": 1023.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73733742599988,
+            "longitude": -73.98401569649994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 24230,
+        "task_time_seconds": 1092.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 22500,
+        "task_time_seconds": 764.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73733742599988,
+            "longitude": -73.98401569649994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 24240,
+        "task_time_seconds": 661.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 23418,
+        "task_time_seconds": 795.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 24666,
+        "task_time_seconds": 430.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 22895,
+        "task_time_seconds": 970.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75351008049991,
+            "longitude": -73.98879086249991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 22626,
+        "task_time_seconds": 1293.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 22532,
+        "task_time_seconds": 484.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70665878589847,
+            "longitude": -74.00723894418903
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 24170,
+        "task_time_seconds": 917.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.80561276899988,
+            "longitude": -73.93860638922062
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 23689,
+        "task_time_seconds": 2342.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.78043963049991,
+            "longitude": -73.95700953199992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 22719,
+        "task_time_seconds": 2283.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748496368499886,
+            "longitude": -73.99243404399994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 22917,
+        "task_time_seconds": 862.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.82096513630884,
+            "longitude": -73.94296557610663
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25144,
+        "task_time_seconds": 3700.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749083385499915,
+            "longitude": -73.98568407899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 23678,
+        "task_time_seconds": 1140.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 22374,
+        "task_time_seconds": 556.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75351008049991,
+            "longitude": -73.98879086249991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 24408,
+        "task_time_seconds": 1008.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 22624,
+        "task_time_seconds": 1044.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75351008049991,
+            "longitude": -73.98879086249991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25145,
+        "task_time_seconds": 1031.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 21872,
+        "task_time_seconds": 649.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748496368499886,
+            "longitude": -73.99243404399994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 22832,
+        "task_time_seconds": 805.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76695150749994,
+            "longitude": -73.95963426699993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 23960,
+        "task_time_seconds": 2031.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75803031499993,
+            "longitude": -73.97768016050001
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25874,
+        "task_time_seconds": 1852.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25657,
+        "task_time_seconds": 792.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75803031499993,
+            "longitude": -73.97768016050001
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 28092,
+        "task_time_seconds": 1951.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25203,
+        "task_time_seconds": 575.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72371646899991,
+            "longitude": -74.00108181249989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 27179,
+        "task_time_seconds": 332.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.766568455471045,
+            "longitude": -73.99591012309416
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 28593,
+        "task_time_seconds": 1012.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 27865,
+        "task_time_seconds": 736.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749083385499915,
+            "longitude": -73.98568407899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25902,
+        "task_time_seconds": 920.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74228299549992,
+            "longitude": -73.9969712004999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 26030,
+        "task_time_seconds": 550.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 27042,
+        "task_time_seconds": 440.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74772537849988,
+            "longitude": -73.97764804049993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 27493,
+        "task_time_seconds": 1326.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75981693399994,
+            "longitude": -73.98419627399991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 26414,
+        "task_time_seconds": 1126.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25271,
+        "task_time_seconds": 476.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 26049,
+        "task_time_seconds": 1120.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72371646899991,
+            "longitude": -74.00108181249989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 27796,
+        "task_time_seconds": 456.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749083385499915,
+            "longitude": -73.98568407899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 27740,
+        "task_time_seconds": 1494.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73170970499915,
+            "longitude": -73.97698123604246
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25715,
+        "task_time_seconds": 1355.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 26217,
+        "task_time_seconds": 344.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72371646899991,
+            "longitude": -74.00108181249989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 26223,
+        "task_time_seconds": 681.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.78402456323369,
+            "longitude": -73.97873159717165
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 26963,
+        "task_time_seconds": 1939.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 28536,
+        "task_time_seconds": 1033.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25646,
+        "task_time_seconds": 809.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.778766265999934,
+            "longitude": -73.95100837249984
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 28463,
+        "task_time_seconds": 2086.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749083385499915,
+            "longitude": -73.98568407899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25248,
+        "task_time_seconds": 1596.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70911981499988,
+            "longitude": -74.01264349249996
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25538,
+        "task_time_seconds": 1109.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71153468920308,
+            "longitude": -74.01589181962237
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 26830,
+        "task_time_seconds": 806.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72853284299991,
+            "longitude": -73.99718279649989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25781,
+        "task_time_seconds": 378.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 28120,
+        "task_time_seconds": 336.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 28193,
+        "task_time_seconds": 470.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 25804,
+        "task_time_seconds": 588.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 27384,
+        "task_time_seconds": 810.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 26317,
+        "task_time_seconds": 551.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 28606,
+        "task_time_seconds": 927.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 27498,
+        "task_time_seconds": 322.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 30537,
+        "task_time_seconds": 569.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71153468920308,
+            "longitude": -74.01589181962237
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32257,
+        "task_time_seconds": 734.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 30678,
+        "task_time_seconds": 643.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32336,
+        "task_time_seconds": 625.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.790479074999894,
+            "longitude": -73.94541517951377
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 31362,
+        "task_time_seconds": 2010.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.724136926999975,
+            "longitude": -73.97772542292921
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 29786,
+        "task_time_seconds": 1571.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 31674,
+        "task_time_seconds": 2146.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 29666,
+        "task_time_seconds": 530.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748496368499886,
+            "longitude": -73.99243404399994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 31213,
+        "task_time_seconds": 808.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76224880249993,
+            "longitude": -73.98983608299997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 31294,
+        "task_time_seconds": 1165.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76224880249993,
+            "longitude": -73.98983608299997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 29302,
+        "task_time_seconds": 810.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73733742599988,
+            "longitude": -73.98401569649994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 30697,
+        "task_time_seconds": 732.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 30634,
+        "task_time_seconds": 479.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 31997,
+        "task_time_seconds": 1108.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32139,
+        "task_time_seconds": 878.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 29385,
+        "task_time_seconds": 488.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748496368499886,
+            "longitude": -73.99243404399994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 31873,
+        "task_time_seconds": 1082.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76438657849988,
+            "longitude": -73.97704129499989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 29024,
+        "task_time_seconds": 1660.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74228299549992,
+            "longitude": -73.9969712004999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 29723,
+        "task_time_seconds": 531.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 30569,
+        "task_time_seconds": 722.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75351008049991,
+            "longitude": -73.98879086249991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 30723,
+        "task_time_seconds": 732.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 29509,
+        "task_time_seconds": 1150.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 30060,
+        "task_time_seconds": 270.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748496368499886,
+            "longitude": -73.99243404399994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32147,
+        "task_time_seconds": 458.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.724136926999975,
+            "longitude": -73.97772542292921
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 29962,
+        "task_time_seconds": 1385.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 30318,
+        "task_time_seconds": 672.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 33388,
+        "task_time_seconds": 1555.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749123894014915,
+            "longitude": -73.97032840455188
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 34178,
+        "task_time_seconds": 1374.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 34303,
+        "task_time_seconds": 447.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 34769,
+        "task_time_seconds": 60.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.708475355352554,
+            "longitude": -74.00412857927198
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32632,
+        "task_time_seconds": 1343.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.766568455471045,
+            "longitude": -73.99591012309416
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32783,
+        "task_time_seconds": 1492.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 33993,
+        "task_time_seconds": 514.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740335749775284,
+            "longitude": -73.97717209350196
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 35758,
+        "task_time_seconds": 1498.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 35959,
+        "task_time_seconds": 620.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.778766265999934,
+            "longitude": -73.95100837249984
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32942,
+        "task_time_seconds": 1991.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74772537849988,
+            "longitude": -73.97764804049993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32909,
+        "task_time_seconds": 1298.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73170970499915,
+            "longitude": -73.97698123604246
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 35912,
+        "task_time_seconds": 1587.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74772537849988,
+            "longitude": -73.97764804049993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32930,
+        "task_time_seconds": 1639.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70911981499988,
+            "longitude": -74.01264349249996
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32560,
+        "task_time_seconds": 916.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 34746,
+        "task_time_seconds": 671.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 33298,
+        "task_time_seconds": 559.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73170970499915,
+            "longitude": -73.97698123604246
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 33045,
+        "task_time_seconds": 748.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.724136926999975,
+            "longitude": -73.97772542292921
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 35661,
+        "task_time_seconds": 994.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 35552,
+        "task_time_seconds": 1021.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32946,
+        "task_time_seconds": 187.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 34399,
+        "task_time_seconds": 645.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7129822358378,
+            "longitude": -73.99883418899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 33887,
+        "task_time_seconds": 1096.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.79178324542306,
+            "longitude": -73.97303122261616
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 33431,
+        "task_time_seconds": 2173.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75981693399994,
+            "longitude": -73.98419627399991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 35171,
+        "task_time_seconds": 1538.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32839,
+        "task_time_seconds": 617.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.724136926999975,
+            "longitude": -73.97772542292921
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 34365,
+        "task_time_seconds": 1836.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 34712,
+        "task_time_seconds": 1146.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 33344,
+        "task_time_seconds": 781.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 35283,
+        "task_time_seconds": 683.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 33723,
+        "task_time_seconds": 849.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32636,
+        "task_time_seconds": 647.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75803031499993,
+            "longitude": -73.97768016050001
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 34068,
+        "task_time_seconds": 4179.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 34075,
+        "task_time_seconds": 231.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 33297,
+        "task_time_seconds": 1024.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 35018,
+        "task_time_seconds": 161.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7129822358378,
+            "longitude": -73.99883418899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 32779,
+        "task_time_seconds": 961.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 35435,
+        "task_time_seconds": 615.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 33830,
+        "task_time_seconds": 607.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 33267,
+        "task_time_seconds": 550.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76224880249993,
+            "longitude": -73.98983608299997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 35131,
+        "task_time_seconds": 1363.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749083385499915,
+            "longitude": -73.98568407899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38494,
+        "task_time_seconds": 1391.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37828,
+        "task_time_seconds": 361.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37655,
+        "task_time_seconds": 867.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 36331,
+        "task_time_seconds": 1930.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73733742599988,
+            "longitude": -73.98401569649994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37397,
+        "task_time_seconds": 1554.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 36560,
+        "task_time_seconds": 464.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37695,
+        "task_time_seconds": 278.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76224880249993,
+            "longitude": -73.98983608299997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38655,
+        "task_time_seconds": 1029.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74772537849988,
+            "longitude": -73.97764804049993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 36363,
+        "task_time_seconds": 976.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37650,
+        "task_time_seconds": 293.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39440,
+        "task_time_seconds": 885.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37487,
+        "task_time_seconds": 315.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73733742599988,
+            "longitude": -73.98401569649994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37046,
+        "task_time_seconds": 1513.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38056,
+        "task_time_seconds": 1611.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740335749775284,
+            "longitude": -73.97717209350196
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 36092,
+        "task_time_seconds": 1489.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 36412,
+        "task_time_seconds": 641.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39356,
+        "task_time_seconds": 501.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75803031499993,
+            "longitude": -73.97768016050001
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 36094,
+        "task_time_seconds": 1935.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38888,
+        "task_time_seconds": 585.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71529991058123,
+            "longitude": -73.98302108862248
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 36826,
+        "task_time_seconds": 1212.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 36939,
+        "task_time_seconds": 404.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38751,
+        "task_time_seconds": 886.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38872,
+        "task_time_seconds": 841.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71529991058123,
+            "longitude": -73.98302108862248
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38102,
+        "task_time_seconds": 1021.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72371646899991,
+            "longitude": -74.00108181249989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 36342,
+        "task_time_seconds": 383.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73733742599988,
+            "longitude": -73.98401569649994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37104,
+        "task_time_seconds": 1045.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70665878589847,
+            "longitude": -74.00723894418903
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37951,
+        "task_time_seconds": 781.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37730,
+        "task_time_seconds": 629.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38890,
+        "task_time_seconds": 1588.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72371646899991,
+            "longitude": -74.00108181249989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38743,
+        "task_time_seconds": 536.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.82764361199991,
+            "longitude": -73.94909801096932
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38593,
+        "task_time_seconds": 1580.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39495,
+        "task_time_seconds": 181.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 36977,
+        "task_time_seconds": 1013.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38307,
+        "task_time_seconds": 1108.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37274,
+        "task_time_seconds": 1160.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75981693399994,
+            "longitude": -73.98419627399991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38133,
+        "task_time_seconds": 1472.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 37714,
+        "task_time_seconds": 1129.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 36875,
+        "task_time_seconds": 806.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7766813630047,
+            "longitude": -73.94734390861134
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39356,
+        "task_time_seconds": 1742.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 38826,
+        "task_time_seconds": 954.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76438657849988,
+            "longitude": -73.97704129499989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42830,
+        "task_time_seconds": 1090.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70665878589847,
+            "longitude": -74.00723894418903
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42578,
+        "task_time_seconds": 532.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42974,
+        "task_time_seconds": 563.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42307,
+        "task_time_seconds": 862.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 40834,
+        "task_time_seconds": 1128.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41812,
+        "task_time_seconds": 578.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73733742599988,
+            "longitude": -73.98401569649994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42599,
+        "task_time_seconds": 1296.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42959,
+        "task_time_seconds": 540.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42684,
+        "task_time_seconds": 202.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75351008049991,
+            "longitude": -73.98879086249991
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39827,
+        "task_time_seconds": 1845.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39866,
+        "task_time_seconds": 903.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 40466,
+        "task_time_seconds": 910.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.748431575499886,
+            "longitude": -73.99991836599992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42142,
+        "task_time_seconds": 1042.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39893,
+        "task_time_seconds": 1775.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76224880249993,
+            "longitude": -73.98983608299997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42721,
+        "task_time_seconds": 1264.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41983,
+        "task_time_seconds": 390.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42962,
+        "task_time_seconds": 582.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74772537849988,
+            "longitude": -73.97764804049993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39824,
+        "task_time_seconds": 2093.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72853284299991,
+            "longitude": -73.99718279649989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42723,
+        "task_time_seconds": 738.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41423,
+        "task_time_seconds": 698.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.86503995208081,
+            "longitude": -73.9195757623364
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41847,
+        "task_time_seconds": 1577.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74228299549992,
+            "longitude": -73.9969712004999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42441,
+        "task_time_seconds": 919.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 40685,
+        "task_time_seconds": 646.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 40106,
+        "task_time_seconds": 427.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71153468920308,
+            "longitude": -74.01589181962237
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 40340,
+        "task_time_seconds": 369.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39675,
+        "task_time_seconds": 1226.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41048,
+        "task_time_seconds": 1593.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 40724,
+        "task_time_seconds": 264.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41039,
+        "task_time_seconds": 466.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72853284299991,
+            "longitude": -73.99718279649989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42135,
+        "task_time_seconds": 787.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71529991058123,
+            "longitude": -73.98302108862248
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 40490,
+        "task_time_seconds": 1067.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39669,
+        "task_time_seconds": 1095.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 40492,
+        "task_time_seconds": 452.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42644,
+        "task_time_seconds": 730.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72853284299991,
+            "longitude": -73.99718279649989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 40937,
+        "task_time_seconds": 396.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39601,
+        "task_time_seconds": 718.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42158,
+        "task_time_seconds": 1068.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39735,
+        "task_time_seconds": 573.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73733742599988,
+            "longitude": -73.98401569649994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42481,
+        "task_time_seconds": 1433.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73733742599988,
+            "longitude": -73.98401569649994
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41901,
+        "task_time_seconds": 2019.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.732225179999936,
+            "longitude": -73.99496754899997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 42661,
+        "task_time_seconds": 743.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74228299549992,
+            "longitude": -73.9969712004999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41391,
+        "task_time_seconds": 582.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749083385499915,
+            "longitude": -73.98568407899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41727,
+        "task_time_seconds": 1309.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43126,
+        "task_time_seconds": 995.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 40694,
+        "task_time_seconds": 1349.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41154,
+        "task_time_seconds": 914.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41011,
+        "task_time_seconds": 456.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740335749775284,
+            "longitude": -73.97717209350196
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41825,
+        "task_time_seconds": 1966.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70665878589847,
+            "longitude": -74.00723894418903
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 41742,
+        "task_time_seconds": 759.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73170970499915,
+            "longitude": -73.97698123604246
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 39613,
+        "task_time_seconds": 1891.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.76224880249993,
+            "longitude": -73.98983608299997
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44194,
+        "task_time_seconds": 894.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7766813630047,
+            "longitude": -73.94734390861134
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44278,
+        "task_time_seconds": 1829.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74772537849988,
+            "longitude": -73.97764804049993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43700,
+        "task_time_seconds": 1508.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.70665878589847,
+            "longitude": -74.00723894418903
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44521,
+        "task_time_seconds": 1420.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7766813630047,
+            "longitude": -73.94734390861134
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 45095,
+        "task_time_seconds": 1389.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.765305162962136,
+            "longitude": -73.95472774589084
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 45855,
+        "task_time_seconds": 1235.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43688,
+        "task_time_seconds": 517.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.75241161267808,
+            "longitude": -74.0038113169179
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43404,
+        "task_time_seconds": 914.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44396,
+        "task_time_seconds": 277.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44742,
+        "task_time_seconds": 719.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7129822358378,
+            "longitude": -73.99883418899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43317,
+        "task_time_seconds": 1058.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44586,
+        "task_time_seconds": 822.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.766568455471045,
+            "longitude": -73.99591012309416
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 46464,
+        "task_time_seconds": 873.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 46736,
+        "task_time_seconds": 298.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43772,
+        "task_time_seconds": 210.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 46308,
+        "task_time_seconds": 1024.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43640,
+        "task_time_seconds": 441.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72853284299991,
+            "longitude": -73.99718279649989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 45722,
+        "task_time_seconds": 438.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749123894014915,
+            "longitude": -73.97032840455188
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 45943,
+        "task_time_seconds": 1782.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 46125,
+        "task_time_seconds": 378.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43934,
+        "task_time_seconds": 401.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74772537849988,
+            "longitude": -73.97764804049993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 45506,
+        "task_time_seconds": 1234.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.718576348499894,
+            "longitude": -74.00726426169042
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 46062,
+        "task_time_seconds": 202.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.74228299549992,
+            "longitude": -73.9969712004999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43908,
+        "task_time_seconds": 749.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.73529527461579,
+            "longitude": -74.00977439058099
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43950,
+        "task_time_seconds": 349.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.740236713999906,
+            "longitude": -73.99045739599995
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 46188,
+        "task_time_seconds": 734.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71153468920308,
+            "longitude": -74.01589181962237
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 45715,
+        "task_time_seconds": 462.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44821,
+        "task_time_seconds": 1033.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.734610604999915,
+            "longitude": -74.00196507349993
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 45228,
+        "task_time_seconds": 583.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749083385499915,
+            "longitude": -73.98568407899992
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44128,
+        "task_time_seconds": 1131.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.719101661499856,
+            "longitude": -73.99066416299985
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43963,
+        "task_time_seconds": 981.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 46452,
+        "task_time_seconds": 805.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.7208317919999,
+            "longitude": -73.99724364299989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 45725,
+        "task_time_seconds": 560.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.749123894014915,
+            "longitude": -73.97032840455188
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44230,
+        "task_time_seconds": 1336.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.801915687294766,
+            "longitude": -73.96552238095356
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44531,
+        "task_time_seconds": 1862.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72371646899991,
+            "longitude": -74.00108181249989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44706,
+        "task_time_seconds": 407.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.71153468920308,
+            "longitude": -74.01589181962237
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44207,
+        "task_time_seconds": 577.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.727953830999894,
+            "longitude": -73.9853151009999
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 43728,
+        "task_time_seconds": 1403.0
+    },
+    {
+        "app_id": 125,
+        "destination": {
+            "latitude": 40.72853284299991,
+            "longitude": -73.99718279649989
+        },
+        "interest": 1.0,
+        "location": {
+            "latitude": 40.72546842899988,
+            "longitude": -74.00867659015563
+        },
+        "request_time": 44893,
+        "task_time_seconds": 636.0
+    }
+]

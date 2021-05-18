@@ -63,6 +63,11 @@ def merge(parsed, to):
     df = pd.concat(x)
     df.to_csv(to, index = False)
 
+def add_col(path, name, value):
+    df = pd.read_csv(path)
+    df[name] = value
+    df.to_csv(path, index = False)
+
 def parse(dir, ids):
     with open(dir + '/config.cfg') as f:
         cfg = json.load(f)
