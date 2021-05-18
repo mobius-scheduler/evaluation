@@ -37,8 +37,8 @@ dir = '{dir}/sprite/alpha{alpha}'.format(dir = cfg['dir'], alpha = a)
 parse.parse_hull(dir)
 
 # generate plot
-cmd = 'Rscript hull.r {dir}/sprite/alpha{alpha}/hull.csv {dir}/hull.pdf'.format(dir = cfg['dir'], alpha = a)
+cmd = 'Rscript boundary.r {dir}/sprite/alpha{alpha}/hull.csv {dir}/boundary.pdf'.format(dir = cfg['dir'], alpha = a)
 utils.exec(cmd)
 
-print("Plot saved to {dir}/hull.pdf".format(dir = cfg['dir']))
+print("Plot saved to {dir}/boundary.pdf".format(dir = cfg['dir']))
 
