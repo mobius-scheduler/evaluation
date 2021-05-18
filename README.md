@@ -46,8 +46,8 @@ Below, we tabulate the scripts to run the experiments, the paths to the plots, a
 ### Figure 4d (Dynamic convex boundaries)
 | Info            |  Details                               |
 | :----:          | :----                                |
-| Script          | `python3 hull.py exps/hull/hull.cfg` |
-| Plot            | data/hull/hull.pdf                   |
+| Script          | `python3 boundary.py exps/boundary/boundary.cfg` |
+| Plot            | data/boundary/boundary.pdf                   |
 | Expected output | - tight band of convex boundaries (width approximately 10 tasks/round)<br>- average target throughput should lie near Mobius throughput |
 
 ### Figure 8 (Mobius for different alphas)
