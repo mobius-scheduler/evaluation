@@ -27,7 +27,7 @@ Follow these steps to install Mobius and dependencies for the experiment instrum
 4. Install python3 and R:
     ```
     sudo apt-get update
-    sudo apt-get install python3.6 r-base python3-pip
+    sudo apt-get install -y python3.6 r-base python3-pip
     ```
 
 5. Install dependencies:
