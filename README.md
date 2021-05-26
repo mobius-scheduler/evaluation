@@ -37,6 +37,15 @@ Follow these steps to install Mobius and dependencies for the experiment instrum
     sudo Rscript requirements.r
     ```
 
+6. (Optional) Build the OR-Tools solver from source. This is needed for the Lyft ridesharing experiment (see below).
+    ```
+    cd vrp/solvers/or-tools
+    make third_party
+    make cc
+    make test_cc
+    make build SOURCE=examples/cpp/pdptw.cc
+    ```
+
 ## Reproducible Experiments
 We provide scripts to reproduce **Figures 4d, 8, and 15-17**. Scripts to run the experiments for Figures 10-12 are also included (`lyft.py`, `exps/lyft/lyft.cfg`); however, these experiments take ~12 hours and require a server with 36 CPUs (in order to parallelize Mobius) and 72 GB of memory (in order to buffer all of the ridesharing requests). If you would like to learn more about running these Lyft ridesharing experiments, please get in touch.
 
